@@ -1,5 +1,6 @@
 # 💫 About Me:
 ✨ Sou estudante da 6° fase do curso Técnico em informática do IFSC-Gaspar<br>🌱 Estou aprendendo: Java, JavaScript, Css e Html<br>💬 Pergunte-me sobre: Java, criação de websites, e como tornar os websites mais acessíveis e inclusivos para todos<br>⚡Sobre mim: adoro cozinhar, provavelmente a maior parte dos meus fins de semana passo cozinhando. Sou apaixonada por fotografias, tiro foto de tudo, acho que é uma das melhores formas de se guardar momentos e memórias.
+![homer-simpson-whoo-hoo (1)](https://github.com/mahmaffezzolli/mahmaffezzolli/assets/111303816/85a6c0f8-b231-4583-b9c1-78ba6f55fcf0)
 
 
 ## 🌐 Socials:
