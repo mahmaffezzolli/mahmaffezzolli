@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Sou estudante da 6° fase do curso Técnico em informática do IFSC-Gaspar<br>🌱 Estou aprendendo: Java, JavaScript, Css e Html<br>⚡
+✨ Sou estudante da 6° fase do curso Técnico em informática do IFSC-Gaspar<br>🌱 Estou aprendendo: Java, JavaScript, Css e Html<br>
 ![homer-simpson-whoo-hoo (1)](https://github.com/mahmaffezzolli/mahmaffezzolli/assets/111303816/85a6c0f8-b231-4583-b9c1-78ba6f55fcf0)
 
 
